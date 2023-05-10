@@ -5,8 +5,11 @@
 测试数据在 /data/tax.properties
 
 build包使用说明:
+
 在jar包目录下,新建data目录,将tax.properties放到下面,自行修改相关配置值.
+
 运行javaw -jar xxx.jar 
+
 或者windows用户直接运行run.cmd
 
 运行截图:
